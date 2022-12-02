@@ -10,7 +10,7 @@ function App() {
           Hi <code>Team</code> lets Start the Hustle!!
         </p>
         <a
-          className="App-link"
+          className="Click Here"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
