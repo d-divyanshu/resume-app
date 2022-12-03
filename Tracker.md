@@ -12,11 +12,11 @@ Date : 03-12-2022
 
 
 Basic template and design for app:
-1. Home/Landing page -> profile picture, background image, Name and description, Navbar ( Projects, Experience, Skills, Achievements), Contacts, Resume button, Social media handles (icons), Sign Up/Sign In
-2. Project
-3. Experience
+1. Home/Landing page -> profile picture, background image, Name and description, Navbar ( Projects, Experience, Skills, Achievements), Contacts, Resume button, Social media handles (icons), Sign Up/Sign In  --> Nidhee
+2. Project --> Ankit
+3. Experience  --> Ankit
 4. Skills
 5. Achievements
-6. Sign in
-7. Sign up
-8. Basic template 
+6. Sign in --> Divyanshu
+7. Sign up --> Divyanshu
+8. Basic template --> Divyanshu
